@@ -1,0 +1,62 @@
+.header{
+    background-color:#282C34 ;
+    color: white;
+    text-align: center;
+}
+
+
+ .about{
+    background-color: #F4F4F4;
+    text-align: center;
+ }
+
+  .movies{
+     text-align: center;
+  }
+
+  .footer{
+    background-color:#282C34 ;
+    color: white;
+    text-align: center;
+    
+  }
+  footer ul li {
+    list-style: none;
+  }
+
+
+  .moviebox1{
+    background-color:#F4F4F4 ;
+    padding: 20px;
+    width: 150px;
+     border-radius: 25px;
+     border-style:groove;
+     margin: auto;
+     margin-bottom: 10px;
+ }
+
+
+
+
+ .moviebox2{
+    background-color:#F4F4F4 ;
+    padding: 20px;
+    width: 150px;
+     border-radius: 25px;
+     border-style:groove;
+     margin: auto;
+     margin-bottom: 10px;
+     
+     
+ }
+
+ 
+ .moviebox3{
+    background-color:#F4F4F4 ;
+    padding: 20px;
+    width: 150px;
+     border-radius: 25px;
+     border-style:groove;
+     margin: auto;
+    
+ }
